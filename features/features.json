@@ -1,5 +1,18 @@
 [
   {
+    "title": "Combine heart and star",
+    "description": "Makes heart and star into 😄.",
+    "credits": ["henryruss2", "impossibilliardsdev2"],
+    "urls": [
+      "https://github.com/henryruss2",
+      "https://scratch.mit.edu/users/impossibilliardsdev2/"
+    ],
+    "file": "combine-heart-star",
+    "type": ["Website"],
+    "tags": ["New","Recommended"],
+    "dynamic": true
+  },
+  {
     "title": "Search Assets",
     "description": "Easily search through costume and sound assets in the editor.",
     "credits": ["Mario_best_games", "rgantzos"],
